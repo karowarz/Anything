@@ -1,0 +1,6 @@
+.title{
+    color: red;
+    &__elo{
+       color: blue;
+     }
+}
